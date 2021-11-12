@@ -1,0 +1,43 @@
+
+
+.ge {
+    width: 100px;
+    height: 100px;
+    padding: 11px; ;
+
+}
+/* span{
+    display: flex;
+    flex-flow: row;
+    align-content: center;
+} */
+
+.attachments{
+    display: flex;
+    flex-flow: row;
+    align-content: center;;
+}
+.container{
+    display: inline-flex; 
+    padding 20%;
+    width: 100%;;
+    margin-left: 10px;
+    float: right;;
+    
+}
+.item {
+    padding: 16px;
+    justify-content: center;
+
+}
+.left {
+    position: absolute;
+    left: 75%;
+    width: 300px;
+    height: 300px;
+}
+.photo{
+    position: absolute;
+    left: 40%;
+}
+
